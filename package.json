@@ -1,8 +1,8 @@
 {
-  "name": "web-page-lubricentro",
+  "name": "lubricentro-rym-client",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://bacosta30762.github.io/ProyectoFinalFidelitasUser",
+  "homepage": "http://bacosta30762.github.io/lubricentro-rym-client",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.6.0",
     "@fortawesome/free-solid-svg-icons": "^6.6.0",

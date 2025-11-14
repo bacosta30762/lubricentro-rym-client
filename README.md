@@ -87,8 +87,8 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/bacosta30762/ProyectoFinalFidelitasUser.git
-   cd ProyectoFinalFidelitasUser
+   git clone https://github.com/bacosta30762/lubricentro-rym-client.git
+   cd lubricentro-rym-client
    ```
 
 2. **Install dependencies**
@@ -151,7 +151,7 @@ Ejects from Create React App, giving you full control over the build configurati
 ## 📁 Project Structure
 
 ```
-ProyectoFinalFidelitasUser/
+lubricentro-rym-client/
 ├── public/
 │   └── index.html          # HTML template
 ├── src/
@@ -230,7 +230,7 @@ The project is configured for GitHub Pages deployment using GitHub Actions.
 
 3. The app will be available at:
    ```
-   http://bacosta30762.github.io/ProyectoFinalFidelitasUser
+   http://bacosta30762.github.io/lubricentro-rym-client
    ```
 
 ### Manual Build
