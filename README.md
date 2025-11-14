@@ -252,7 +252,7 @@ This project is private and proprietary.
 
 ## 👥 Authors
 
-- **bacosta30762** - Initial work
+- **Brandon Acosta Cascante**
 
 ## 🙏 Acknowledgments
 
